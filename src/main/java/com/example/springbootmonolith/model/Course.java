@@ -4,6 +4,7 @@ import javax.persistence.*;
 
 import java.util.List;
 
+/** create table **/
 @Entity
 @Table(name = "course")
 public class Course {
